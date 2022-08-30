@@ -1,5 +1,6 @@
-# Nodeshop
-👩‍💻 Site Nodeshop (loja de informática) desenvolvido no PROPROFISSÃO utilizando HTML, CSS.
+# 👩‍💻 Nodeshop
+Site de uma loja de informática desenvolvida no curso PROPROFISSÃO do Instituto Proa.
+O projeto foi realizado no módulo Interfaces e, para o seu desenvolvimento, utilizei: HTML e CSS.
 
 <h2> Demonstração do NodeShop: <h2>
 
